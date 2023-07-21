@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-
-
 Teammates: Joe Lin  Michael Chen Maxwell Wong 
 
 
@@ -20,5 +16,3 @@ The match needs to use Image recognition so we use the Jetson Nano.
 It Image recognition is faster than other apparatus 
 
 
-
->>>>>>> main
